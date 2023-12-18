@@ -1,0 +1,7 @@
+C:\Users\soums\OneDrive\Desktop\MSSQL\Day8\Assignment8_Day18\Assignment8_Day18\bin\Debug\Assignment8_Day18.exe.config
+C:\Users\soums\OneDrive\Desktop\MSSQL\Day8\Assignment8_Day18\Assignment8_Day18\bin\Debug\Assignment8_Day18.exe
+C:\Users\soums\OneDrive\Desktop\MSSQL\Day8\Assignment8_Day18\Assignment8_Day18\bin\Debug\Assignment8_Day18.pdb
+C:\Users\soums\OneDrive\Desktop\MSSQL\Day8\Assignment8_Day18\Assignment8_Day18\obj\Debug\Assignment8_Day18.csproj.AssemblyReference.cache
+C:\Users\soums\OneDrive\Desktop\MSSQL\Day8\Assignment8_Day18\Assignment8_Day18\obj\Debug\Assignment8_Day18.csproj.CoreCompileInputs.cache
+C:\Users\soums\OneDrive\Desktop\MSSQL\Day8\Assignment8_Day18\Assignment8_Day18\obj\Debug\Assignment8_Day18.exe
+C:\Users\soums\OneDrive\Desktop\MSSQL\Day8\Assignment8_Day18\Assignment8_Day18\obj\Debug\Assignment8_Day18.pdb
